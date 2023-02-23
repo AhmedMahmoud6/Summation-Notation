@@ -36,12 +36,10 @@ public class SystemEvent : MonoBehaviour
     double yLaw;
 
     double xVar;
-    string Resume;
 
     bool done = false;
     bool valueReady = false;
     bool appFinish = false;
-    bool appFinishWithY = false;
 
     void Update()
     {
