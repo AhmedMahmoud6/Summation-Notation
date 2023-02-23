@@ -132,4 +132,5 @@ public class SystemEvent : MonoBehaviour
         aLaw = (ySum - (bLaw * xSum)) / (n);
         yLaw = aLaw + (bLaw * xVar);
     }
+
 }
